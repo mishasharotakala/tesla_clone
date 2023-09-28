@@ -20,14 +20,13 @@ To view the Tesla Home Page locally, follow these steps:
 
     ```
     git clone https://github.com/mishasharotakala/tesla_clone.git
-    cd tesla_clone
 
     ```
 
 2. Navigate to the project directory:
 
     ```
-    cd tesla-homepage
+    cd tesla_clone
     ```
 
 3. Open the `index.html` file in a web browser:
@@ -35,3 +34,4 @@ To view the Tesla Home Page locally, follow these steps:
     ```
     double-click on index.html
     ```
+<img src="./assets/tesla.svg" alt="SVG Image" width="300" height="300">
