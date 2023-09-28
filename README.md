@@ -1,4 +1,4 @@
-# Tesla Home Page
+# Tesla Home Page Clone
 
 <img src="./assets/logo.svg" alt="SVG Image" width="300" height="300">
 
